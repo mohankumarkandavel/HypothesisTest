@@ -1,0 +1,3 @@
+[submodule "hypoclient"]
+	path = hypoclient
+	url = https://github.com/mohankumarkandavel/hypoclient.git
