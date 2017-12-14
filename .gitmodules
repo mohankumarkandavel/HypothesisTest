@@ -4,3 +4,6 @@
 [submodule "HypoServer"]
 	path = HypoServer
 	url = https://github.com/mohankumarkandavel/HypoServer.git
+[submodule "HypoTest"]
+	path = HypoTest
+	url = https://github.com/mohankumarkandavel/HypoTest.git
