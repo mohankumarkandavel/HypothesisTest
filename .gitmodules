@@ -7,6 +7,4 @@
 [submodule "HypoTest"]
 	path = HypoTest
 	url = https://github.com/mohankumarkandavel/HypoTest.git
-[submodule "fejoa"]
-	path = fejoa
-	url = https://gitlab.com/czeidler/fejoa.git
+
