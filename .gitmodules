@@ -8,3 +8,6 @@
 	path = HypoTest
 	url = https://github.com/mohankumarkandavel/HypoTest.git
 
+[submodule "fejoa"]
+	path = fejoa
+	url = https://github.com/mohankumarkandavel/fejoa
